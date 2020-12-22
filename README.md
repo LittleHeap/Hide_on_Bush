@@ -23,6 +23,7 @@ Filename   |  Discription
 :-----:  | :-------: 
 github | [CSAW-HackML-2020](https://github.com/csaw-hackml/CSAW-HackML-2020)
 models | 4 original Badnet models + 4 pruned-trained Badnet models
+data | dataset folder
 test_input_png | 10 test input images
 B1.ipynb | Pruning and training of sunglasses_bd model (output Pruned_B1.h5)
 B2.ipynb | Pruning and training of multi_trigger model (output Pruned_B2.h5)
