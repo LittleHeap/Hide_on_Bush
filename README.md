@@ -35,13 +35,15 @@ eval_anonymous_2.py | Repaired B4 model
 myEval.py | New eval script for dataset evaluation
 
 ## Evaluating Operation:
-1. Evaluate valid, test or other label dataset with G1/G2/G3/G4 model by using `myEval.py`, just like the original `eval.py`: `python3 myEval.py <data directory> <model name: G1/G2/G3/G4>`  <br>
+1. Evaluate valid, test or other label dataset with G1/G2/G3/G4 model by using `myEval.py`, just like the original `eval.py`: <br>
+`python3 myEval.py <data directory> <model name: G1/G2/G3/G4>`  <br>
 examples: <br>
 `python3 myEval.py ./data/clean_validation_data.h5 G1` <br>
 `python3 myEval.py ./data/clean_validation_data.h5 G2` <br>
 `python3 myEval.py ./data/clean_test_data.h5 G3` <br>
 `python3 myEval.py ./data/clean_test_data.h5 G4` <br>
-2. Evaluate an image input and print the result in the range [0-1283]: `python3 <model file> <image path>` <br>
+2. Evaluate an image input and print the result in the range [0-1283]: <br>
+`python3 <model file> <image path>` <br>
 examples: <br>
 `python3 eval_sunglasses_bd.py ./test_input_png/image_clean_0.png` <br>
 `python3 eval_multi_trigger.py ./test_input_png/image_clean_1.png` <br>
