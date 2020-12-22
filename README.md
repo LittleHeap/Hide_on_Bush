@@ -2,8 +2,8 @@
 
 ## Group Member:
 + Xujian Quan (xq454)
-+ Rui Ren (rr3089)
 + Shaoyong Wang（sw4557）
++ Rui Ren (rr3089)
 + Bo Su (bs3957)
 
 ## Environment Requirements
