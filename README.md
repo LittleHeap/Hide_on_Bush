@@ -24,10 +24,10 @@ Filename   |  Discription
 github | [CSAW-HackML-2020](https://github.com/csaw-hackml/CSAW-HackML-2020)
 models | 4 original Badnet models + 4 pruned-trained Badnet models
 test_input_png | 10 test input images
-B1.ipynb | Pruning and training of B1 model (output Pruned_B1.h5)
-B2.ipynb | Pruning and training of B2 model (output Pruned_B2.h5)
-B3.ipynb | Pruning and training of B3 model (output Pruned_B3.h5)
-B4.ipynb | Pruning and training of B4 model (output Pruned_B4.h5)
+B1.ipynb | Pruning and training of sunglasses_bd model (output Pruned_B1.h5)
+B2.ipynb | Pruning and training of multi_trigger model (output Pruned_B2.h5)
+B3.ipynb | Pruning and training of anonymous_1 model (output Pruned_B3.h5)
+B4.ipynb | Pruning and training of anonymous_2 model (output Pruned_B4.h5)
 eval_sunglasses_bd.py | Repaired B1 model
 eval_multi_trigger.py | Repaired B2 model
 eval_anonymous_1.py | Repaired B3 model
