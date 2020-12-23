@@ -2,7 +2,7 @@
 
 ## Group Member:
 + Xujian Quan (xq454)
-+ Shaoyong Wang（sw4557）
++ Shaoyong Wang (sw4557)
 + Rui Ren (rr3089)
 + Bo Su (bs3957)
 
